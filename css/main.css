@@ -1,4 +1,8 @@
-img{
+.img-wrapper {
     width: 200px;
-    height: 200px;
+    height: 200px;  
+}
+
+.img-wrapper img{
+    border-radius: 100%;
 }

@@ -1,12 +1,4 @@
 img{
-    width: 100%;
-}
-.container-site{
-    max-width: 1200px;
-    margin: 2rem auto;
-}
-
-
-.custom_slider_1 .carousel{
-    height: 400px;
+    width: 200px;
+    height: 200px;
 }
